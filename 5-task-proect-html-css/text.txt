@@ -1,0 +1,96 @@
+PAGE TITLE
+Manhattan - Coffee House
+
+Links:
+INFORMATION
+CONTACTS
+HOURS
+
+------------- BANNER SECTION (PARALLAX) --------------------
+
+Banner Title:
+MANHATTAN - COFFEE HOUSE
+
+------------------------- INFORMATION SECTION ----------------------------
+
+1st CONTAINER WITH TEXT:
+
+Subtitle (2nd level):
+EXPERIENCE THE BEST COFFEE IN TOWN!
+
+Paragraph:
+Coffee is not just a drink that was prepared by someone. Coffee is a moment, and we will show you that. Phrases like "How about we have a coffee?" or "Let's make some coffee?" are demonstrations that one of the moments that most reinforce bonds with others is finally about to happen. Weak or strong? With or without sugar? Do you want sugar or sweetener? These are phrases we hear in various places. In almost every place where there are people, there is also coffee. We seem intrinsic to coffee. Here at Manhattan, we will serve you with much care our beloved Amaro's Coffee directly from our coffee plantation in Minas Gerais. For all of us, coffee is serious business and deserves all the care.
+
+CONTAINER WITH SECOND BACKGROUND IMAGE (PARALLAX):
+Subtitle (3rd level):
+Good coffee is a reason for joy!
+
+2nd CONTAINER WITH TEXT:
+
+Subtitle (2nd level):
+WHAT IS MANHATTAN COFFEE?
+
+Paragraph:
+According to the Specialty Coffee Association's (SCA) Sensory Evaluation Methodology, used worldwide, a specialty coffee is one that scores at least 80 points on the methodology's scoring scale (which goes up to 100). Manhattan Coffee stands out in the attributes of fragrance, body, harmony, sweetness, and flavor, in this case, having flavors and aromas that can be fruity, herbal, sweet like caramel and chocolate. We can make an analogy with wine because Manhattan Coffee can also be appreciated for its sensory characteristics and not just for the caffeine. Through excellent cultivation standards, post-harvest care, and roasting, you will be able to experience different and delicious types of coffee.
+
+CONTAINER WITH THIRD BACKGROUND IMAGE (PARALLAX):
+Subtitle (3rd level):
+Life only begins after coffee!
+
+3rd CONTAINER WITH TEXT:
+
+Subtitle (2nd level):
+GET TO KNOW GOURMET MANHATTAN COFFEE?
+
+Paragraph:
+The characteristics of this type of gourmet coffee from Manhattan are very striking. Its body will depend on the blend variety: the heavier it is in the mouth, the greater the body. The lighter its weight, the lower the body. Our gourmet coffee is the best evaluated in the production process, so that it does not come with any type of defect. The aroma is very noticeable, and the consumer can clearly feel it, and it can vary among 4 aromas: floral, citrus, chocolatey, fruity. These variations are consequences of Arabica beans. All of this will depend on the roasting, the lighter it is, the higher the acidity.
+
+------------------------- CONTACTS SECTION ----------------------------
+
+Subtitle (2nd level) of the Section:
+Contacts & Address
+
+Contacts Box:
+1st paragraph -> Phone & WhatsApp: (21) 99999-5555
+2nd paragraph -> Email: contato@manhattan.com.br
+3rd paragraph -> Address: Av Ayrton Senna, 3000 - Barra da Tijuca - Rio de Janeiro
+
+-------------------------- HOURS SECTION ----------------------------
+
+Subtitle (2nd level) of the Section:
+OPERATING HOURS
+
+LIST OF THE SECTION:
+
+1st List Item:
+Subtitle (3rd level) -> MONDAY
+Span -> CLOSED
+
+2nd List Item:
+Subtitle (3rd level) -> TUESDAY
+Paragraph -> 09:00 - 22:00
+
+3rd List Item:
+Subtitle (3rd level) -> WEDNESDAY
+Paragraph -> 09:00 - 22:00
+
+4th List Item:
+Subtitle (3rd level) -> THURSDAY
+Paragraph -> 09:00 - 22:00
+
+5th List Item:
+Subtitle (3rd level) -> FRIDAY
+Paragraph -> 09:00 - 22:00
+
+6th List Item:
+Subtitle (3rd level) -> SATURDAY
+Paragraph -> 09:00 - 22:00
+
+7th List Item:
+Subtitle (3rd level) -> SUNDAY
+Paragraph -> 12:00 - 22:00
+
+------------------------------ FOOTER ----------------------------
+
+1st Paragraph -> © Manhattan - Coffee House - All rights reserved
+2nd Paragraph -> Developed by "student's name"
