@@ -4,3 +4,19 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+:root {
+  /* -- Font Family -- */
+  --fraunces: 'Fraunces', serif;
+  --lato: 'Lato', sans-serif;
+  --oswald: 'Oswald', sans-serif;
+
+  /* -- Colours Pallete -- */
+  --primary-color: #c4a47c;
+  --secondary-color: #604829;
+
+  --white-color: #fff;
+  --black-color: #000000;
+  --gray-dark-color: #666;
+  --gray-light-color: #ACACAC;
+}
